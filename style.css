@@ -1,0 +1,83 @@
+.top-line{
+    border: 1px solid #1098ad;
+    width: 40%;
+    height: 5px;
+    background-color: #1098ad;
+}
+.body-side{
+    border: 0.5px solid #f7f7f7;
+    background-color: #EBE8E8;
+    height: auto;
+    width: 40%;
+}
+.img11{
+    display: flex;
+    width: 20%;
+    height: 50%;
+}
+.list{
+    list-style-type: none;
+    padding: 0;
+}
+.list1{
+    display: flex;
+    align-content: flex-end;
+    font-weight: bold;
+}
+.RP{
+    margin: 5%;
+    padding: 1%;
+    text-align: center;
+}
+.list a{
+    align-content: flex-end;
+    padding: 1%;
+    text-decoration: none;
+    color: #1098ad;
+    font-size: 12px;
+    font-weight: bold;
+}
+.list p{
+    padding: 0px;
+    margin-top: 0px;
+    font-size: 10px;;
+}
+.aside1{
+    padding: 0%;
+    margin: auto;
+    border: none;
+    background-color: #EBE8E8;
+    height: 80%;
+    width: 80%;
+}
+
+.heart-btn::before {
+    content: "❤️ ";
+}
+
+.bottom-left-container {
+  display: flex;
+  justify-content: flex-start; 
+  align-items: flex-end;       
+  height: 250px; 
+}
+.heart-btn {
+    height: 15%;
+    padding-bottom: 0px;  
+    position: relative;
+    bottom: 10px;
+    left: 10px;
+}
+.sidiali{
+    display: flex;
+}
+.foot h4{
+    padding: 0;
+    margin: 0;
+    font-size: 12px;
+    font-weight: normal;
+}
+.related-post{
+    margin-left: 350px;
+    margin-right: 350px;
+}
